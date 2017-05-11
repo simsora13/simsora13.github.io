@@ -1,0 +1,423 @@
+{
+    "FireBoxRoom": {
+        "Assets": {
+            "AssetImage": [
+                {
+                    "id": "ikd",
+                    "ou3d": false,
+                    "reverse3d": false,
+                    "sbs3d": false,
+                    "src": "https://raw.githubusercontent.com/simsora13/simsora13.github.io/master/janusvr/pictures/inkDragon.jpg",
+                    "tex_clamp": false,
+                    "tex_compress": false,
+                    "tex_linear": true,
+                    "tex_mipmap": true,
+                    "use_for_skybox": "false"
+                },
+                {
+                    "id": "su1",
+                    "ou3d": false,
+                    "reverse3d": false,
+                    "sbs3d": false,
+                    "src": "http://i.imgur.com/F372vIk.jpg",
+                    "tex_clamp": false,
+                    "tex_compress": false,
+                    "tex_linear": true,
+                    "tex_mipmap": true,
+                    "use_for_skybox": "false"
+                },
+                {
+                    "id": "toy2",
+                    "ou3d": false,
+                    "reverse3d": false,
+                    "sbs3d": false,
+                    "src": "http://cdn.bulbagarden.net/upload/f/f2/Spr_4d_448.png",
+                    "tex_clamp": false,
+                    "tex_compress": false,
+                    "tex_linear": true,
+                    "tex_mipmap": true,
+                    "use_for_skybox": "false"
+                },
+                {
+                    "id": "thumb2",
+                    "ou3d": false,
+                    "reverse3d": false,
+                    "sbs3d": false,
+                    "src": "file:///C:/Users/Ben/Documents/janusvr/workspaces/benhouse/thumb.jpg",
+                    "tex_clamp": false,
+                    "tex_compress": false,
+                    "tex_linear": true,
+                    "tex_mipmap": true,
+                    "use_for_skybox": "false"
+                },
+                {
+                    "id": "yn",
+                    "ou3d": false,
+                    "reverse3d": false,
+                    "sbs3d": false,
+                    "src": "https://raw.githubusercontent.com/simsora13/simsora13.github.io/master/janusvr/pictures/Madotsuki2.png",
+                    "tex_clamp": false,
+                    "tex_compress": false,
+                    "tex_linear": true,
+                    "tex_mipmap": true,
+                    "use_for_skybox": "false"
+                },
+                {
+                    "id": "achhd",
+                    "ou3d": false,
+                    "reverse3d": false,
+                    "sbs3d": false,
+                    "src": "http://animalcrossingworld.com/wp-content/uploads/2015/08/gamestop-happy-home-designer-poster.jpg",
+                    "tex_clamp": false,
+                    "tex_compress": false,
+                    "tex_linear": true,
+                    "tex_mipmap": true,
+                    "use_for_skybox": "false"
+                },
+                {
+                    "id": "mimikyu",
+                    "ou3d": false,
+                    "reverse3d": false,
+                    "sbs3d": false,
+                    "src": "http://play.pokemonshowdown.com/sprites/xyani/mimikyu.gif",
+                    "tex_clamp": false,
+                    "tex_compress": false,
+                    "tex_linear": true,
+                    "tex_mipmap": true,
+                    "use_for_skybox": "false"
+                },
+                {
+                    "id": "__CUBEMAP_IRRADIANCE",
+                    "ou3d": false,
+                    "reverse3d": false,
+                    "sbs3d": false,
+                    "src": "./-346405945745656213_cubemap_irradiance64.dds",
+                    "tex_clamp": true,
+                    "tex_compress": false,
+                    "tex_linear": true,
+                    "tex_mipmap": true,
+                    "use_for_skybox": true
+                },
+                {
+                    "id": "pp",
+                    "ou3d": false,
+                    "reverse3d": false,
+                    "sbs3d": false,
+                    "src": "https://adventuresinbackstory.files.wordpress.com/2014/08/psycho-pass-poster.jpg",
+                    "tex_clamp": false,
+                    "tex_compress": false,
+                    "tex_linear": true,
+                    "tex_mipmap": true,
+                    "use_for_skybox": "false"
+                },
+                {
+                    "id": "umbreon",
+                    "ou3d": false,
+                    "reverse3d": false,
+                    "sbs3d": false,
+                    "src": "http://play.pokemonshowdown.com/sprites/xyani/umbreon.gif",
+                    "tex_clamp": false,
+                    "tex_compress": false,
+                    "tex_linear": true,
+                    "tex_mipmap": true,
+                    "use_for_skybox": "false"
+                },
+                {
+                    "id": "mycat",
+                    "ou3d": false,
+                    "reverse3d": false,
+                    "sbs3d": false,
+                    "src": "https://raw.githubusercontent.com/simsora13/simsora13.github.io/master/janusvr/room/benhouse/mycatsmall.png",
+                    "tex_clamp": false,
+                    "tex_compress": false,
+                    "tex_linear": true,
+                    "tex_mipmap": true,
+                    "use_for_skybox": "false"
+                },
+                {
+                    "id": "dh",
+                    "ou3d": false,
+                    "reverse3d": false,
+                    "sbs3d": false,
+                    "src": "https://raw.githubusercontent.com/simsora13/simsora13.github.io/master/janusvr/pictures/digiHearts.jpg",
+                    "tex_clamp": false,
+                    "tex_compress": false,
+                    "tex_linear": true,
+                    "tex_mipmap": true,
+                    "use_for_skybox": "false"
+                },
+                {
+                    "id": "kk",
+                    "ou3d": false,
+                    "reverse3d": false,
+                    "sbs3d": false,
+                    "src": "http://33.media.tumblr.com/a5ef87e6752644963f8aec5364a757d2/tumblr_nqfdwtHnCZ1uum06fo1_500.gif",
+                    "tex_clamp": false,
+                    "tex_compress": false,
+                    "tex_linear": true,
+                    "tex_mipmap": true,
+                    "use_for_skybox": "false"
+                },
+                {
+                    "id": "image22",
+                    "ou3d": false,
+                    "reverse3d": false,
+                    "sbs3d": false,
+                    "src": "file:///C:/Users/Ben/Documents/janusvr/workspaces/benroom/sky.png",
+                    "tex_clamp": true,
+                    "tex_compress": false,
+                    "tex_linear": true,
+                    "tex_mipmap": true,
+                    "use_for_skybox": true
+                },
+                {
+                    "id": "pokken",
+                    "ou3d": false,
+                    "reverse3d": false,
+                    "sbs3d": false,
+                    "src": "https://1d31c772ec21a65b0a71-0707aae3004193da193e1ad4a942592d.ssl.cf2.rackcdn.com/31445/pokken_poster2_bonuslg__large.jpg",
+                    "tex_clamp": false,
+                    "tex_compress": false,
+                    "tex_linear": true,
+                    "tex_mipmap": true,
+                    "use_for_skybox": "false"
+                },
+                {
+                    "id": "thumb3",
+                    "ou3d": false,
+                    "reverse3d": false,
+                    "sbs3d": false,
+                    "src": "file:///C:/Users/Ben/Documents/janusvr/workspaces/20161217004352/thumb.jpg",
+                    "tex_clamp": false,
+                    "tex_compress": false,
+                    "tex_linear": true,
+                    "tex_mipmap": true,
+                    "use_for_skybox": "false"
+                },
+                {
+                    "id": "su",
+                    "ou3d": false,
+                    "reverse3d": false,
+                    "sbs3d": false,
+                    "src": "https://raw.githubusercontent.com/simsora13/simsora13.github.io/master/janusvr/pictures/STEVENUNIVERSEmi.jpg",
+                    "tex_clamp": false,
+                    "tex_compress": false,
+                    "tex_linear": true,
+                    "tex_mipmap": true,
+                    "use_for_skybox": "false"
+                },
+                {
+                    "id": "__CUBEMAP_RADIANCE",
+                    "ou3d": false,
+                    "reverse3d": false,
+                    "sbs3d": false,
+                    "src": "./-346405945745656213_cubemap_radiance256.dds",
+                    "tex_clamp": true,
+                    "tex_compress": false,
+                    "tex_linear": true,
+                    "tex_mipmap": true,
+                    "use_for_skybox": true
+                },
+                {
+                    "id": "toy1",
+                    "ou3d": false,
+                    "reverse3d": false,
+                    "sbs3d": false,
+                    "src": "http://cdn.bulbagarden.net/upload/c/c0/Spr_5b_571.png",
+                    "tex_clamp": false,
+                    "tex_compress": false,
+                    "tex_linear": true,
+                    "tex_mipmap": true,
+                    "use_for_skybox": "false"
+                }
+            ],
+            "AssetObject": [
+                {
+                    "id": "furniture",
+                    "src": "furniture.dae",
+                    "tex_linear": "true"
+                },
+                {
+                    "id": "walls-and-floor",
+                    "src": "walls-and-floor.dae",
+                    "tex_linear": "false"
+                }
+            ],
+            "AssetWebSurface": [
+                {
+                    "height": 1080,
+                    "id": "google",
+                    "src": "https://www.google.com",
+                    "width": 1920
+                },
+                {
+                    "height": 720,
+                    "id": "cyc",
+                    "src": "http://cryptid-creations.tumblr.com/",
+                    "width": 720
+                }
+            ]
+        },
+        "Room": {
+            "Image": [
+                {
+                    "id": "pokken",
+                    "js_id": "2",
+                    "lighting": false,
+                    "pos": "1.654 1.4 6.2",
+                    "scale": "0.2 0.2 0.01",
+                    "xdir": "0 0 -1",
+                    "zdir": "1 0 0"
+                },
+                {
+                    "id": "mycat",
+                    "js_id": "3",
+                    "lighting": false,
+                    "pos": "-4.1 0.7 6.1",
+                    "scale": "0.3 0.3 0.01",
+                    "xdir": "-0.707106 0 -0.707107",
+                    "zdir": "0.707107 0 -0.707106"
+                },
+                {
+                    "id": "su",
+                    "js_id": "4",
+                    "lighting": false,
+                    "pos": "1.66 1.93 6.39",
+                    "scale": "0.2 0.2 0.1",
+                    "xdir": "0 0 -1",
+                    "zdir": "1 0 0"
+                },
+                {
+                    "id": "kk",
+                    "js_id": "5",
+                    "lighting": false,
+                    "pos": "6 1.4 7.2",
+                    "scale": "2 2 0.1",
+                    "xdir": "0 0 -1",
+                    "zdir": "1 0 0"
+                },
+                {
+                    "id": "pp",
+                    "js_id": "6",
+                    "lighting": false,
+                    "pos": "1.66 1.93 6.07",
+                    "scale": "0.12 0.12 0.1",
+                    "xdir": "0 0 -1",
+                    "zdir": "1 0 0"
+                },
+                {
+                    "id": "1",
+                    "js_id": "7",
+                    "pos": "2.2 2 6",
+                    "scale": "0.3 0.3 0.1",
+                    "xdir": "0 0 -1",
+                    "zdir": "1 0 0"
+                },
+                {
+                    "id": "toy1",
+                    "js_id": "8",
+                    "pos": "5.7 1.46 4.6",
+                    "scale": "0.1 0.1 0.1",
+                    "xdir": "-0.34202 0 -0.939693",
+                    "zdir": "0.939693 0 -0.34202"
+                },
+                {
+                    "id": "toy2",
+                    "js_id": "9",
+                    "pos": "5.68 1.46 4.44",
+                    "scale": "0.1 0.1 0.2",
+                    "xdir": "0 0 -1",
+                    "zdir": "1 0 0"
+                },
+                {
+                    "id": "su1",
+                    "js_id": "10",
+                    "lighting": false,
+                    "pos": "-5.3 1.8 5.9",
+                    "scale": "0.9 0.9 1",
+                    "xdir": "0 0 -1",
+                    "zdir": "1 0 0"
+                },
+                {
+                    "id": "yn",
+                    "js_id": "11",
+                    "pos": "5.91 1.7 4.8",
+                    "scale": "0.4 0.4 0.1",
+                    "xdir": "0 0 -1",
+                    "zdir": "1 0 0"
+                },
+                {
+                    "id": "achhd",
+                    "js_id": "12",
+                    "lighting": false,
+                    "pos": "1.66 2 6.75",
+                    "scale": "0.16 0.16 0.1",
+                    "xdir": "0 0 -1",
+                    "zdir": "1 0 0"
+                },
+                {
+                    "id": "umbreon",
+                    "js_id": "13",
+                    "pos": "-4.5 0.7 3.4",
+                    "scale": "0.4 0.4 0.1",
+                    "xdir": "0 0 -1",
+                    "zdir": "1 0 0"
+                },
+                {
+                    "id": "ikd",
+                    "js_id": "14",
+                    "pos": "1.7 1.8 5.4",
+                    "scale": "0.4 0.4 0.1",
+                    "xdir": "0 0 -1",
+                    "zdir": "1 0 0"
+                },
+                {
+                    "id": "mimikyu",
+                    "js_id": "15",
+                    "pos": "4.31 0.2 7.4",
+                    "scale": "0.14 0.14 0.1",
+                    "xdir": "0.766044 0 -0.642788",
+                    "zdir": "0.642788 0 0.766044"
+                },
+                {
+                    "id": "dh",
+                    "js_id": "16",
+                    "lighting": false,
+                    "pos": "2.7 1.3 4.23",
+                    "scale": "0.2 0.2 0.02"
+                }
+            ],
+            "Object": [
+                {
+                    "collision_id": "walls-and-floor",
+                    "id": "walls-and-floor",
+                    "js_id": "0",
+                    "lighting": false,
+                    "xdir": "1 0 -0.000002",
+                    "zdir": "0.000002 0 1"
+                },
+                {
+                    "collision_id": "furniture",
+                    "id": "furniture",
+                    "js_id": "1",
+                    "xdir": "1 0 -0.000002",
+                    "zdir": "0.000002 0 1"
+                }
+            ],
+            "cubemap_irradiance_id": "__CUBEMAP_IRRADIANCE",
+            "cubemap_radiance_id": "__CUBEMAP_RADIANCE",
+            "pos": "0 0 0",
+            "skybox_back_id": "image22",
+            "skybox_down_id": "image22",
+            "skybox_front_id": "image22",
+            "skybox_left_id": "image22",
+            "skybox_right_id": "image22",
+            "skybox_up_id": "image22",
+            "use_local_asset": "room_plane",
+            "visible": false,
+            "xdir": "0 0 0",
+            "ydir": "0 1 0",
+            "zdir": "0 0 0"
+        }
+    }
+}
