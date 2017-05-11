@@ -1,0 +1,87 @@
+{
+    "FireBoxRoom": {
+        "Assets": {
+            "AssetObject": [
+                {
+                    "id": "b",
+                    "src": "b.dae"
+                },
+                {
+                    "id": "fox_room",
+                    "src": "fox_roomfoxs1.dae"
+                }
+            ],
+            "AssetScript": [
+                {
+                    "src": "17.js"
+                }
+            ],
+            "AssetSound": [
+                {
+                    "id": "kk",
+                    "src": "kk.mp3"
+                }
+            ]
+        },
+        "Room": {
+            "Object": [
+                {
+                    "collision_id": "fox_room",
+                    "id": "fox_room",
+                    "js_id": "simsora-1-1488693861",
+                    "lighting": false,
+                    "ydir": "0 1 0.000001",
+                    "zdir": "0 -0.000001 1"
+                },
+                {
+                    "col": "#74ffff",
+                    "collision_id": "cube",
+                    "id": "cube",
+                    "js_id": "JsIdMask",
+                    "pos": "1 -1000 -3",
+                    "xdir": "0.000001 0 -1",
+                    "ydir": "1 0 0.000001",
+                    "zdir": "0 -1 0"
+                },
+                {
+                    "col": "#9680fd",
+                    "collision_id": "cone",
+                    "id": "cone",
+                    "js_id": "JsIdScaryMask",
+                    "pos": "1 0 -3",
+                    "xdir": "0 0.000003 -1",
+                    "ydir": "0.000001 1 0.000003",
+                    "zdir": "1 -0.000001 0"
+                },
+                {
+                    "col": "#74ffff",
+                    "collision_id": "b",
+                    "id": "b",
+                    "js_id": "toy",
+                    "lighting": false,
+                    "pos": "1.9 0.2 7",
+                    "scale": "0.8 0.8 0.5",
+                    "xdir": "1 0.000001 -0.000001",
+                    "ydir": "-0.000001 1 0",
+                    "zdir": "0.000001 0 1"
+                },
+                {
+                    "col": "#74ffff",
+                    "collision_id": "b",
+                    "id": "b",
+                    "js_id": "wf",
+                    "lighting": false,
+                    "pos": "2 0.6 7",
+                    "scale": "0.8 0.8 0.5",
+                    "xdir": "1 0.000001 -0.000001",
+                    "ydir": "-0.000001 1 0",
+                    "zdir": "0.000001 0 1"
+                }
+            ],
+            "pos": "0 0 0",
+            "xdir": "1 0 0",
+            "ydir": "0 1 0",
+            "zdir": "0 0 1"
+        }
+    }
+}

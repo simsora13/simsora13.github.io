@@ -1,0 +1,185 @@
+{
+    "FireBoxRoom": {
+        "Assets": {
+            "AssetObject": [
+                {
+                    "id": "fox_room",
+                    "src": "fox_roomfoxs.dae"
+                },
+                {
+                    "id": "rbfox",
+                    "src": "fox.obj",
+                    "tex": "fox.gif"
+                },
+                {
+                    "id": "b",
+                    "src": "b.dae"
+                }
+            ],
+            "AssetScript": [
+                {
+                    "src": "17.js"
+                }
+            ],
+            "AssetSound": [
+                {
+                    "id": "Lc",
+                    "src": "LC.mp3"
+                }
+            ]
+        },
+        "Room": {
+            "Object": [
+                {
+                    "Draw_Layer": 0,
+                    "collision_id": "fox_room",
+                    "id": "fox_room",
+                    "js_id": "simsora-1-1488693861",
+                    "lighting": false,
+                    "ydir": "0 1 0.000001",
+                    "zdir": "0 -0.000001 1"
+                },
+                {
+                    "Draw_Layer": 0,
+                    "collision_id": "rbfox",
+                    "id": "rbfox",
+                    "js_id": "Jsrbfox",
+                    "pos": "3.2 0.9 1.6",
+                    "scale": "0.7 0.7 0.7",
+                    "xdir": "-1 0.000001 -0.000001",
+                    "ydir": "0.000001 1 0",
+                    "zdir": "0.000001 0 -1"
+                },
+                {
+                    "Draw_Layer": 0,
+                    "col": "#74ffff",
+                    "collision_id": "b",
+                    "id": "b",
+                    "js_id": "foxg",
+                    "lighting": false,
+                    "pos": "-0.1 1.8 6.4",
+                    "scale": "0.6 0.6 0.4",
+                    "xdir": "1 0.000001 -0.000001",
+                    "ydir": "-0.000001 1 0",
+                    "zdir": "0.000001 0 1"
+                },
+                {
+                    "Draw_Layer": 0,
+                    "col": "#74ffff",
+                    "collision_id": "b",
+                    "id": "b",
+                    "js_id": "momcs",
+                    "lighting": false,
+                    "pos": "-0.9 1.6 6.8",
+                    "scale": "0.8 0.8 0.5",
+                    "xdir": "1 0.000001 -0.000001",
+                    "ydir": "-0.000001 1 0",
+                    "zdir": "0.000001 0 1"
+                },
+                {
+                    "Draw_Layer": 0,
+                    "col": "#74ffff",
+                    "collision_id": "b",
+                    "id": "b",
+                    "js_id": "ls",
+                    "lighting": false,
+                    "pos": "1.2 1.3 6.8",
+                    "scale": "0.8 0.8 0.5",
+                    "xdir": "1 0.000001 -0.000001",
+                    "ydir": "-0.000001 1 0",
+                    "zdir": "0.000001 0 1"
+                },
+                {
+                    "Draw_Layer": 0,
+                    "col": "#74ffff",
+                    "collision_id": "b",
+                    "id": "b",
+                    "js_id": "JsIdOfBook",
+                    "lighting": false,
+                    "pos": "0 1 2.7",
+                    "scale": "0.8 0.8 0.5",
+                    "xdir": "0 0.000001 -1",
+                    "ydir": "0 1 0.000001",
+                    "zdir": "1 0 0"
+                },
+                {
+                    "Draw_Layer": 0,
+                    "col": "#74ffff",
+                    "collision_id": "b",
+                    "id": "b",
+                    "js_id": "toy",
+                    "lighting": false,
+                    "pos": "1.9 0.2 7",
+                    "scale": "0.8 0.8 0.5",
+                    "xdir": "1 0.000001 -0.000001",
+                    "ydir": "-0.000001 1 0",
+                    "zdir": "0.000001 0 1"
+                },
+                {
+                    "Draw_Layer": 0,
+                    "col": "#74ffff",
+                    "collision_id": "b",
+                    "id": "b",
+                    "js_id": "lc",
+                    "lighting": false,
+                    "pos": "-0.5 0.9 8.6",
+                    "scale": "0.8 0.8 0.5",
+                    "xdir": "0 0.000001 -1",
+                    "ydir": "0 1 0.000001",
+                    "zdir": "1 0 0"
+                },
+                {
+                    "Draw_Layer": 0,
+                    "col": "#74ffff",
+                    "collision_id": "b",
+                    "id": "b",
+                    "js_id": "wf",
+                    "lighting": false,
+                    "pos": "2 0.6 7",
+                    "scale": "0.8 0.8 0.5",
+                    "xdir": "1 0.000001 -0.000001",
+                    "ydir": "-0.000001 1 0",
+                    "zdir": "0.000001 0 1"
+                },
+                {
+                    "Draw_Layer": 0,
+                    "col": "#74ffff",
+                    "collision_id": "b",
+                    "id": "b",
+                    "js_id": "fox1",
+                    "lighting": false,
+                    "pos": "3.3 0.8 6.9",
+                    "scale": "0.8 0.8 0.5",
+                    "xdir": "-1 0.000001 0",
+                    "ydir": "0.000001 1 0",
+                    "zdir": "0 0 -1"
+                },
+                {
+                    "Draw_Layer": 0,
+                    "col": "#74ffff",
+                    "collision_id": "b",
+                    "id": "b",
+                    "js_id": "fox2",
+                    "lighting": false,
+                    "pos": "2.1 0.9 10.900001",
+                    "scale": "0.8 0.8 0.5",
+                    "xdir": "-1 0.000001 -0.000001",
+                    "ydir": "0.000001 1 0",
+                    "zdir": "0.000001 0 -1"
+                }
+            ],
+            "Sound": [
+                {
+                    "gain": 50,
+                    "id": "Lc",
+                    "js_id": "JsLc",
+                    "visible": false
+                }
+            ],
+            "pos": "0 0 0",
+            "xdir": "1 0 0",
+            "ydir": "0 1 0",
+            "zdir": "0 0 1"
+        }
+    }
+}
