@@ -1,0 +1,102 @@
+name = vix5
+type = body+head
+scale = 1
+filename = vix5/vix5.fbx
+texdir = vix5/textures
+joint = jointLeftHand = LeftHand
+joint = jointNeck = Neck
+joint = jointLean = Spine
+joint = jointRightHand = RightHand
+joint = jointHead = Head
+joint = jointRoot = Hips
+freeJoint = LeftArm
+freeJoint = LeftForeArm
+freeJoint = RightArm
+freeJoint = RightForeArm
+jointIndex = LeftHandMiddle3_end = 64
+jointIndex = Spine = 22
+jointIndex = RightShoulder = 25
+jointIndex = RightHandMiddle1 = 37
+jointIndex = earR1 = 81
+jointIndex = OldLeftEye_end = 86
+jointIndex = RightHandThumb3 = 47
+jointIndex = RightHandMiddle2 = 38
+jointIndex = RightHandIndex2 = 42
+jointIndex = tail5 = 8
+jointIndex = RightLeg = 11
+jointIndex = RightHandIndex3 = 43
+jointIndex = RightHandRing2 = 34
+jointIndex = tail4 = 7
+jointIndex = tail3 = 6
+jointIndex = RightHandMiddle3 = 39
+jointIndex = RightArm = 26
+jointIndex = RightHandIndex3_end = 44
+jointIndex = Spine1 = 23
+jointIndex = RightHandThumb3_end = 48
+jointIndex = Jaw_end = 76
+jointIndex = LeftHandPinky3_end = 56
+jointIndex = RightHandPinky1 = 29
+jointIndex = LeftHandMiddle2 = 62
+jointIndex = Armature = 1
+jointIndex = LeftHandThumb1 = 69
+jointIndex = RightFoot = 12
+jointIndex = RightHandIndex1 = 41
+jointIndex = earL1 = 78
+jointIndex = OldRightEye_end = 84
+jointIndex = Hips = 2
+jointIndex = RightHandThumb2 = 46
+jointIndex = RightToeBase = 13
+jointIndex = LeftForeArm = 51
+jointIndex = RightHandRing3 = 35
+jointIndex = RightUpLeg = 10
+jointIndex = tail2 = 5
+jointIndex = LeftLeg = 17
+jointIndex = earRootR = 80
+jointIndex = RightHandRing3_end = 36
+jointIndex = LeftHandPinky2 = 54
+jointIndex = LeftToeBase = 19
+jointIndex = LeftHandThumb2 = 70
+jointIndex = OldRightEye = 83
+jointIndex = LeftHandPinky1 = 53
+jointIndex = Spine2 = 24
+jointIndex = earRootL = 77
+jointIndex = RightHandThumb1 = 45
+jointIndex = LeftHand = 52
+jointIndex = LeftHandThumb3_end = 72
+jointIndex = body = 0
+jointIndex = RightHandPinky3 = 31
+jointIndex = earL1_end = 79
+jointIndex = LeftHandIndex2 = 66
+jointIndex = LeftHandIndex1 = 65
+jointIndex = LeftFoot = 18
+jointIndex = LeftHandThumb3 = 71
+jointIndex = LeftToe_End_end = 21
+jointIndex = RightForeArm = 27
+jointIndex = OldLeftEye = 85
+jointIndex = LeftHandRing1 = 57
+jointIndex = tail5_end = 9
+jointIndex = Neck = 73
+jointIndex = LeftHandIndex3_end = 68
+jointIndex = LeftToe_End = 20
+jointIndex = LeftHandIndex3 = 67
+jointIndex = RightHandPinky2 = 30
+jointIndex = LeftHandRing3_end = 60
+jointIndex = tailroot = 3
+jointIndex = Head = 74
+jointIndex = LeftShoulder = 49
+jointIndex = RightHandMiddle3_end = 40
+jointIndex = RightHandPinky3_end = 32
+jointIndex = LeftHandMiddle1 = 61
+jointIndex = earR1_end = 82
+jointIndex = RightToe_End = 14
+jointIndex = LeftHandRing3 = 59
+jointIndex = LeftHandMiddle3 = 63
+jointIndex = RightHandRing1 = 33
+jointIndex = LeftArm = 50
+jointIndex = LeftHandPinky3 = 55
+jointIndex = LeftUpLeg = 16
+jointIndex = Jaw = 75
+jointIndex = LeftHandRing2 = 58
+jointIndex = RightToe_End_end = 15
+jointIndex = RightHand = 28
+jointIndex = tail1 = 4
