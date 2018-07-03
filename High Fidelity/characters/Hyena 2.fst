@@ -1,58 +1,47 @@
 name = Hyena 2
 type = body+head
 scale = 1
-filename = Hyena 2/Hyena 2.0 ben.fbx
+filename = Hyena 2/Hyena 2.0toyTailsDoll.fbx
 texdir = Hyena 2/textures
-joint = jointLean = Spine
-joint = jointHead = Head
-joint = jointRightHand = Hand .R
-joint = jointNeck = Neck
-joint = jointLeftHand = Hand .L
 joint = jointRoot = Hips
-freeJoint = Ear .L
-freeJoint = Ear .R
-freeJoint = Tail Root
-jointIndex = Index .R.001 = 26
-jointIndex = Forearm .L = 29
-jointIndex = Ring .R = 19
-jointIndex = Shoulder .R = 15
-jointIndex = Ear .L = 43
-jointIndex = Thumb .R = 21
-jointIndex = Middle .L = 35
-jointIndex = Thumb .L = 33
-jointIndex = Index .L.001 = 38
-jointIndex = Ring .L = 31
-jointIndex = Lowerleg .L = 10
-jointIndex = Tail Root = 3
-jointIndex = Upperleg .L = 9
-jointIndex = Armature.001 = 1
-jointIndex = Spine = 13
-jointIndex = Hair Root = 41
-jointIndex = Shoulder .L = 27
-jointIndex = Middle .L.001 = 36
-jointIndex = Head = 40
-jointIndex = Toe .R = 8
-jointIndex = Hand .L = 30
-jointIndex = Ring02 .L = 32
-jointIndex = Middle .R.001 = 24
-jointIndex = Thumb .R.001 = 22
-jointIndex = Lowerleg .R = 6
-jointIndex = Upperarm .R = 16
-jointIndex = Thumb .L.001 = 34
-jointIndex = Neck = 39
-jointIndex = Upperarm .L = 28
-jointIndex = Chest = 14
-jointIndex = Index .L = 37
-jointIndex = Ear .R = 42
+joint = jointNeck = Neck
+joint = jointRightHand = RightHand
+joint = jointLeftHand = LeftHand
+joint = jointHead = Head
+joint = jointLean = Spine
+freeJoint = LeftArm
+freeJoint = LeftForeArm
+freeJoint = RightArm
+freeJoint = RightForeArm
+jointIndex = RightToe_End = 7
+jointIndex = Armature.009 = 1
+jointIndex = Youngling.002_[TM]Body_Cube.012mesh.000 = 0
+jointIndex = RightHand = 21
+jointIndex = RightUpLeg = 3
+jointIndex = LeftHand = 26
+jointIndex = Neck = 28
+jointIndex = Head = 29
+jointIndex = RightShoulder = 18
+jointIndex = LeftHand_end = 27
+jointIndex = LeftUpLeg = 9
+jointIndex = Spine2 = 17
+jointIndex = RightArm = 19
+jointIndex = HeadTop_End = 30
+jointIndex = RightLeg = 4
+jointIndex = LeftLeg = 10
+jointIndex = RightHand_end = 22
+jointIndex = LeftFoot = 11
+jointIndex = RightFoot = 5
+jointIndex = HeadTop_End_end = 31
+jointIndex = Spine = 15
+jointIndex = LeftToeBase = 12
+jointIndex = LeftShoulder = 23
 jointIndex = Hips = 2
-jointIndex = [Yeen] Body M 01.001 = 0
-jointIndex = Foot .L = 11
-jointIndex = Ring02 .R = 20
-jointIndex = Forearm .R = 17
-jointIndex = Index .R = 25
-jointIndex = Hand .R = 18
-jointIndex = Upperleg .R = 5
-jointIndex = Toe .L = 12
-jointIndex = Middle .R = 23
-jointIndex = Foot .R = 7
-jointIndex = Tail End = 4
+jointIndex = LeftToe_End = 13
+jointIndex = RightToe_End_end = 8
+jointIndex = RightForeArm = 20
+jointIndex = LeftArm = 24
+jointIndex = Spine1 = 16
+jointIndex = LeftForeArm = 25
+jointIndex = LeftToe_End_end = 14
+jointIndex = RightToeBase = 6
